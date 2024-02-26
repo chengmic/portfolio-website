@@ -22,7 +22,7 @@ const navLinks = [
     },
   
     {
-        title: "Links",
+        title: "Contact",
         path: "#contact",
     },
 ]
