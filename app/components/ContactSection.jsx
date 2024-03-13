@@ -33,7 +33,7 @@ const ContactSection = () => {
                   </div>
                 </a>
 
-                <a href ="https://www.linkedin.com/in/michellencheng/" target="_blank" rel="noopener noreferrer">
+                <a href ="https://www.linkedin.com/in/chengmic/" target="_blank" rel="noopener noreferrer">
                   <div className='flex flex-col items-center'>
                     <Image
                     src="/images/linkedin.svg"
