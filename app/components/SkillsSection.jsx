@@ -23,16 +23,6 @@ const SkillsSection = () => {
 
               <div className='flex flex-col items-center'>
                 <Image
-                src="/images/cplusplus-original.svg"
-                width={icon_size}
-                height={icon_size}
-                alt="C++"
-                />
-                <p className="text-white text-s mt-1 text-center">C++</p>
-              </div>
-
-              <div className='flex flex-col items-center'>
-                <Image
                 src="/images/csharp-original.svg"
                 width={icon_size}
                 height={icon_size}
