@@ -5,7 +5,7 @@ const projectsData = [
   {
     id: 1,
     title: 'ML Breakout',
-    description: "A class project replicating Atari's Breakout with an added Machine Learning element in versus mode for player vs. AI gameplay. Built using Unity and Unity ML Agents.",
+    description: "A video game replicating Atari's Breakout with an added Machine Learning element in player vs. AI gameplay. Built using Unity and Unity ML Agents.",
     image: '/images/thumbnails/mlbreakout.png',
     gitlink: 'https://github.com/chengmic/ml_breakout',
     videolink: 'https://youtu.be/Kf7kKUJoRrk',
@@ -21,7 +21,7 @@ const projectsData = [
   {
     id: 3,
     title: 'PokePy',
-    description: "a Python desktop Pokedex application, using customtkinter for the graphical user interface and integrating PokeAPI for real-time Pokemon data retrieval. The project aimed to showcase proficiency in creating a basic UI and utilizing external APIs, with an additional focus on microservices.",
+    description: "A Python-based desktop Pokedex application, using customtkinter for the graphical user interface and integrating PokeAPI for dynamic Pokemon data retrieval. The project aimed to showcase proficiency in creating a basic UI and utilizing external APIs, with an additional focus on microservices.",
     image: '/images/thumbnails/pokepy.png',
     gitlink: 'https://github.com/chengmic/PokePy',
     videolink: 'https://www.youtube.com/watch?v=NFW5ps8meiI',
