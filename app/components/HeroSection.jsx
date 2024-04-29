@@ -32,9 +32,9 @@ const HeroSection = () => {
             Recent computer science graduate and aspiring software developer.
           </p>
           <div>
-            <a href="mailto:chengmic@oregonstate.edu">
+            <a href="https://www.linkedin.com/in/chengmic/">
               <button className="px-6 py-3 w-full sm:w-fit rounded-full bg-gradient-to-br from-sky-500 via-blue-500 to-blue-600 hover:bg-slate-200 text-white mr-4">
-                Email Me
+                LinkedIn
               </button>
             </a>
             <a href="/documents/michellecheng_resume.pdf" target="_blank" rel="noopener noreferrer">
