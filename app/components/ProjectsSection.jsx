@@ -31,7 +31,7 @@ const projectsData = [
   },
   {
     id: 4,
-    title: 'PlentyOfFur',
+    title: 'Plenty Of Fur Prototype',
     description: "Plenty of Furs is a UI/UX design project for Plenty of Fur, a pet adoption app created to steamline the adoption process. This prototype adheres to Nielsen's 10 Usability Heuristics and other design principles, ensuring a user-centered, accessible, and aesthetically pleasing interface. Made using Figma.",
     image: '/images/thumbnails/plentyoffur.png',
     gitlink: '',
