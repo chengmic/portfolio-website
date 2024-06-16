@@ -9,6 +9,7 @@ const projectsData = [
     image: '/images/thumbnails/mlbreakout.png',
     gitlink: 'https://github.com/chengmic/ml_breakout',
     videolink: 'https://youtu.be/Kf7kKUJoRrk',
+    demolink: ''
   },
   {
     id: 2,
@@ -17,6 +18,7 @@ const projectsData = [
     image: '/images/thumbnails/darkbrewcafe.png',
     gitlink: 'https://github.com/chengmic/Dark-Brew-Cafe-Database-Website',
     videolink: '',
+    demolink: ''
   },
   {
     id: 3,
@@ -25,6 +27,16 @@ const projectsData = [
     image: '/images/thumbnails/pokepy.png',
     gitlink: 'https://github.com/chengmic/PokePy',
     videolink: 'https://www.youtube.com/watch?v=NFW5ps8meiI',
+    demolink: ''
+  },
+  {
+    id: 4,
+    title: 'PlentyOfFur',
+    description: "Plenty of Furs is a UI/UX design project for Plenty of Fur, a pet adoption app created to steamline the adoption process. This prototype adheres to Nielsen's 10 Usability Heuristics and other design principles, ensuring a user-centered, accessible, and aesthetically pleasing interface. Made using Figma.",
+    image: '/images/thumbnails/plentyoffur.png',
+    gitlink: '',
+    videolink: '',
+    demolink: 'https://www.figma.com/proto/v8CvQ5ILlvF1tm642TVCoF/Plenty-of-Fur-Prototype?node-id=2-2&t=5Vl1gx2gsNB21g3c-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2'
   },
 ];
 
@@ -46,6 +58,7 @@ const ProjectsSection = () => {
                 image={project.image}
                 gitlink = {project.gitlink}
                 videolink = {project.videolink}
+                demolink = {project.demolink}
               />
             ))}
           </div>

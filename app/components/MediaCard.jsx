@@ -8,7 +8,7 @@ import Typography from '@mui/material/Typography';
 import Link from 'next/link';
 
 
-export default function ImgMediaCard({ title, description, image, gitlink, videolink}) {
+export default function ImgMediaCard({ title, description, image, gitlink, videolink, demolink}) {
   return (
     <Card sx={{ 
         maxWidth: 275,
@@ -37,12 +37,19 @@ export default function ImgMediaCard({ title, description, image, gitlink, video
         justifyContent: 'flex-end',
         marginTop: 'auto',
         }}>
+        {gitlink &&(
         <Link href = {gitlink} passHref>
           <Button size="small" sx={{color:"#ffffff", '&:hover': { color: '#ffcc00' }, '&:active': { color: '#ffc000' }}}>GitHub</Button>
         </Link>
+        )}
         {videolink &&(
           <Link href = {videolink} passHref>
             <Button size="small" sx={{color:"#ffffff", '&:hover': { color: '#ffcc00' }, '&:active': { color: '#ffc000' }}}>Video</Button>
+          </Link>
+        )}
+        {demolink &&(
+          <Link href = {demolink} passHref>
+            <Button size="small" sx={{color:"#ffffff", '&:hover': { color: '#ffcc00' }, '&:active': { color: '#ffc000' }}}>Demo</Button>
           </Link>
         )}
       </CardActions>
