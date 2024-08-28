@@ -38,7 +38,7 @@ export default function ImgMediaCard({ title, description, image, gitlink}) {
         marginTop: 'auto',
         }}>
         {gitlink &&(
-        <Link href = {gitlink} passHref>
+        <Link href = {gitlink} passHref target="_blank" rel="noopener noreferrer">
           <Button size="small" sx={{color:"#ffffff", '&:hover': { color: '#ffcc00' }, '&:active': { color: '#ffc000' }}}>GitHub</Button>
         </Link>
         )}
