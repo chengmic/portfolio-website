@@ -29,7 +29,7 @@ const HeroSection = () => {
 
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Recent Computer Science Graduate and Aspiring Software Developer
+            Computer Science Graduate and Aspiring Software Developer
           </p>
           <div>
             <a href="https://www.linkedin.com/in/chengmic/" target="_blank" rel="noopener noreferrer">
