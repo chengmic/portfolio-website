@@ -14,7 +14,7 @@ const projectsData = [
     title: 'Dark Brew Cafe Database Website',
     description: "A web application for database management for a hypothetical company, Dark Brew Cafe. The website incorporates CRUD (Create, Read, Update, Delete) operations, utilizing Flask for web development and SQL for database management.",
     image: '/images/thumbnails/darkbrewcafe.png',
-    gitlink: 'https://github.com/chengmic/Dark-Brew-Cafe-Database-Website',
+    gitlink: 'https://github.com/chengmic/Dark-Brew-Database-Web-App',
   },
   {
     id: 3,
