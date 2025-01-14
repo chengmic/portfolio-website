@@ -15,6 +15,7 @@ const projectsData = [
     description: "A web application for database management for a hypothetical company, Dark Brew Cafe. The website incorporates CRUD (Create, Read, Update, Delete) operations, utilizing Flask for web development and SQL for database management.",
     image: '/images/thumbnails/darkbrewcafe.png',
     gitlink: 'https://github.com/chengmic/Dark-Brew-Database-Web-App',
+    demolink: 'https://dark-brew-database-web-app.vercel.app/',
   },
   {
     id: 3,
@@ -49,6 +50,7 @@ const ProjectsSection = () => {
                 description={project.description}
                 image={project.image}
                 gitlink = {project.gitlink}
+                demolink = {project.demolink}
               />
             ))}
           </div>
