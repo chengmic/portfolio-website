@@ -83,7 +83,7 @@ const SkillsSection = () => {
                 height={icon_size}
                 alt="my sql"
                 />
-                <p className="text-white text-s mt-1 text-center">My SQL</p>
+                <p className="text-white text-s mt-1 text-center">MySQL</p>
               </div>
               
               <div className='flex flex-col items-center'>
