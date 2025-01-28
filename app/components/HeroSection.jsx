@@ -37,7 +37,7 @@ const HeroSection = () => {
                 LinkedIn
               </button>
             </a>
-            <a href="/documents/chengmic_resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/documents/01_2025_michellecheng.pdf" target="_blank" rel="noopener noreferrer">
               <button className="px-1 py-1 w-full sm:w-fit rounded-full  bg-gradient-to-br from-sky-500 via-blue-500 to-blue-600 hover:bg-slate-800">
                 <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
                   Resume
