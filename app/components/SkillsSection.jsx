@@ -129,7 +129,7 @@ const SkillsSection = () => {
 
               <div className='flex flex-col items-center'>
                 <Image
-                src="/images/vercel-original-wordmark.svg"
+                src="/images/vercel-original.svg"
                 width={icon_size}
                 height={icon_size}
                 alt="vercel"
