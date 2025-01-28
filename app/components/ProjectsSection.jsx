@@ -23,6 +23,7 @@ const projectsData = [
     description: "Plenty of Furs is a UI/UX design project for a mobile, pet adoption application akin to Tinder. This prototype adheres to Nielsen's 10 Usability Heuristics and other design principles, ensuring a user-centered and aesthetically pleasing interface. Made using Figma.",
     image: '/images/thumbnails/plentyoffur.png',
     gitlink: 'https://github.com/chengmic/Plenty-of-Fur',
+    demolink: 'https://www.figma.com/proto/v8CvQ5ILlvF1tm642TVCoF/Plenty-of-Fur-Prototype?node-id=2-2&t=5Vl1gx2gsNB21g3c-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2',
   },
   {
     id: 4,
