@@ -126,6 +126,18 @@ const SkillsSection = () => {
                 <p className="text-white text-s mt-1 text-center">Git</p>
               </div>
 
+
+              <div className='flex flex-col items-center'>
+                <Image
+                src="/images/vercel-original-wordmark.svg"
+                width={icon_size}
+                height={icon_size}
+                alt="vercel"
+                />
+                <p className="text-white text-s mt-1 text-center">Vercel</p>
+              </div>
+
+
               <div className='flex flex-col items-center'>
                 <Image
                 src="/images/figma-original.svg"
