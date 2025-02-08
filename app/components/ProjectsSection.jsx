@@ -19,11 +19,11 @@ const projectsData = [
   },
   {
     id: 3,
-    title: 'Plenty Of Fur Prototype',
-    description: "Plenty of Furs is a UI/UX design project for a mobile, pet adoption application akin to Tinder. This prototype adheres to Nielsen's 10 Usability Heuristics and other design principles, ensuring a user-centered and aesthetically pleasing interface. Made using Figma.",
-    image: '/images/thumbnails/plentyoffur.png',
-    gitlink: 'https://github.com/chengmic/Plenty-of-Fur',
-    demolink: 'https://www.figma.com/proto/v8CvQ5ILlvF1tm642TVCoF/Plenty-of-Fur-Prototype?node-id=2-2&t=5Vl1gx2gsNB21g3c-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2',
+    title: 'Animal Crossing Dex',
+    description: "React application integrating NookipediaAPI to display information from the Nintendo game franchise, Animal Crossing.",
+    image: '/images/thumbnails/animalcrossingdex.png',
+    gitlink: 'https://github.com/chengmic/animal-crossing-dex',
+    demolink: 'https://chengmic.github.io/animal-crossing-dex/'
   },
   {
     id: 4,
@@ -31,7 +31,16 @@ const projectsData = [
     description: "A Python-based desktop Pokedex application, using customtkinter for the graphical user interface and integrating PokeAPI for dynamic Pokemon data retrieval. The project aimed to showcase proficiency in creating a basic UI and utilizing external APIs, with an additional focus on microservices.",
     image: '/images/thumbnails/pokepy.png',
     gitlink: 'https://github.com/chengmic/PokePy'
-  }
+  },
+  {
+    id: 5,
+    title: 'Plenty Of Fur Prototype',
+    description: "Plenty of Furs is a UI/UX design project for a mobile, pet adoption application akin to Tinder. This prototype adheres to Nielsen's 10 Usability Heuristics and other design principles, ensuring a user-centered and aesthetically pleasing interface. Made using Figma.",
+    image: '/images/thumbnails/plentyoffur.png',
+    gitlink: 'https://github.com/chengmic/Plenty-of-Fur',
+    demolink: 'https://www.figma.com/proto/v8CvQ5ILlvF1tm642TVCoF/Plenty-of-Fur-Prototype?node-id=2-2&t=5Vl1gx2gsNB21g3c-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2',
+  },
+
 ];
 
 
