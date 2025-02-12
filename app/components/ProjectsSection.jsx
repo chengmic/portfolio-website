@@ -11,19 +11,19 @@ const projectsData = [
   },
   {
     id: 2,
-    title: 'Dark Brew Cafe Database Website',
-    description: "A web application for database management for a hypothetical company, Dark Brew Cafe. The website incorporates CRUD (Create, Read, Update, Delete) operations, utilizing Flask for web development and SQL for database management.",
-    image: '/images/thumbnails/darkbrewcafe.png',
-    gitlink: 'https://github.com/chengmic/Dark-Brew-Database-Web-App',
-    demolink: 'https://dark-brew-database-web-app.vercel.app/',
-  },
-  {
-    id: 3,
     title: 'Animal Crossing Dex',
     description: "React application integrating NookipediaAPI to display information from the Nintendo game franchise, Animal Crossing.",
     image: '/images/thumbnails/animalcrossingdex.png',
     gitlink: 'https://github.com/chengmic/animal-crossing-dex',
     demolink: 'https://chengmic.github.io/animal-crossing-dex/'
+  },
+  {
+    id: 3,
+    title: 'Dark Brew Cafe Database Website',
+    description: "A web application for database management for a hypothetical company, Dark Brew Cafe. The website incorporates CRUD (Create, Read, Update, Delete) operations, utilizing Flask for web development and SQL for database management.",
+    image: '/images/thumbnails/darkbrewcafe.png',
+    gitlink: 'https://github.com/chengmic/Dark-Brew-Database-Web-App',
+    demolink: 'https://dark-brew-database-web-app.vercel.app/',
   },
   {
     id: 4,
@@ -40,7 +40,6 @@ const projectsData = [
     gitlink: 'https://github.com/chengmic/Plenty-of-Fur',
     demolink: 'https://www.figma.com/proto/v8CvQ5ILlvF1tm642TVCoF/Plenty-of-Fur-Prototype?node-id=2-2&t=5Vl1gx2gsNB21g3c-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2',
   },
-
 ];
 
 
