@@ -8,7 +8,7 @@ const projectsData = [
     description: "A video game replicating Atari's Breakout with an added Machine Learning element in which players can play against an AI. Built using Unity and Unity ML Agents.",
     image: '/images/thumbnails/mlbreakout.png',
     gitlink: 'https://github.com/chengmic/ml_breakout',
-    demolink: 'https://www.youtube.com/watch?v=Kf7kKUJoRrk'
+    demolink: 'https://youtu.be/lQrDyBoce3k'
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ const projectsData = [
     description: "A Python-based desktop Pokedex application, using customtkinter for the graphical user interface and integrating PokeAPI for dynamic Pokemon data retrieval. The project aimed to showcase proficiency in creating a basic UI and utilizing external APIs, with an additional focus on microservices.",
     image: '/images/thumbnails/pokepy.png',
     gitlink: 'https://github.com/chengmic/PokePy',
-    demolink:  'https://www.youtube.com/watch?v=NFW5ps8meiI'
+    demolink:  'https://youtu.be/GTJT4QzqEPc'
   },
   {
     id: 5,
